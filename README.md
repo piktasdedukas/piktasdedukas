@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piktasdedukas
 - 👀 Linux
-- 🌱 Linux/armV7
+- 🌱 Linux/armV7 for MK908v3 board.
 - 💞️ Linux/armV7, bootloader, kernel, etc..
 - 📫 email.tar.gz
 
